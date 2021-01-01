@@ -1,1 +1,1 @@
-# ebay-bot
+# Ebay-Discord-Bot
